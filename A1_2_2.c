@@ -14,8 +14,8 @@
 
 /*
   Project Title: Procedures
-  Team Members: Joe Carrillo, 
-  Date: November 5, 2024
+  Team Members: [names]
+  Date: [date]
   Section:
 
 
