@@ -4,9 +4,9 @@
 
 /*
 Project Title: LED and Flashlight commands
-Team Members: 3
-Date: 11/12/24
-Section: 3
+Team Members:
+Date:
+Section:
 
 
 Task Description: Turn on the LED and flashlight for 10 seconds.
